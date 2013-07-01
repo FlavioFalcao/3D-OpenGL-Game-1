@@ -7,7 +7,7 @@ This game has been made using the OpenGL library for C++. It is a 3D arcade game
 Acknowledgements
 -----------------
 
--I have used the sample code provided by the Graphics_TAs to test this SGL library.
+I have used the sample code provided by the Graphics_TAs to build this game.
 
 
 Compilation Process
@@ -15,7 +15,7 @@ Compilation Process
 
 $ make
 
--This will complile the program and produce an executable file named "Game".
+This will complile the program and produce an executable file named "Game".
 
 
 Running Process
@@ -23,8 +23,9 @@ Running Process
 
 $ ./Game
 
--Now we run the "Game" file to display the window.
--Press Esc while running the program to exit
+Now we run the "Game" file to display the window.
+
+Press Esc while running the program to exit
 
 
 Commands
