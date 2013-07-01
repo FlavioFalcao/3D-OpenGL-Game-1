@@ -4,13 +4,10 @@
 This game has been made using the OpenGL library for C++. It is a 3D arcade game in which a character has to traverse a path using jumps and jetpacks to reach the destination. It has a total of 3 levels. This repository contains all the necessary files which are required by the program but you still need to install all the required C++ libraries for proper functioning of the game. Good Luck!
 
 
-INSTRUCTIONS
--------------
-
 Acknowledgements
 -----------------
 
-1. I have used the sample code provided by the Graphics_TAs to test this SGL library.
+-I have used the sample code provided by the Graphics_TAs to test this SGL library.
 
 
 Compilation Process
@@ -18,7 +15,7 @@ Compilation Process
 
 $ make
 
-# This will complile the program and produce an executable file named "Game".
+-This will complile the program and produce an executable file named "Game".
 
 
 Running Process
@@ -26,9 +23,8 @@ Running Process
 
 $ ./Game
 
-# Now we run the "Game" file to display the window.
-
-# Press Esc while running the program to exit
+-Now we run the "Game" file to display the window.
+-Press Esc while running the program to exit
 
 
 Commands
